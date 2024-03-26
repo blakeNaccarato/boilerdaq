@@ -4,13 +4,13 @@ ipykernel==6.29.0
 loguru==0.7.2
 matplotlib==3.8.3
 mcculw==1.0.0
-nbformat==5.9.2
-pydantic==2.6.1
+nbformat==5.10.3
+pydantic==2.6.4
 pandas[hdf5,performance]==2.2.0
 pandas-stubs~=2.2.0
 ploomber-engine==0.0.32
-pyqtgraph==0.13.3
-PySide6==6.6.2
+pyqtgraph==0.13.4
+PySide6==6.6.3
 PyVISA==1.14.1
 seaborn==0.13.2
 simple-pid==2.0.0

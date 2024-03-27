@@ -1,7 +1,7 @@
 # Requirements for both CI and dev environments
 # * ---------------------------------------------------------------------------------- *
 # Type checking
-pyright==1.1.350
+pyright==1.1.356
 # * ---------------------------------------------------------------------------------- *
 # Pre-commit common requirements
 ruff==0.1.11
